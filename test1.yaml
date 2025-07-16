@@ -1,0 +1,13 @@
+# comment
+GENERAL:
+  version: 1.0
+
+# graphs
+GRAPHS:
+  # first graph
+  - name: one
+
+  # second graph
+  - name: two
+    thickness: 2
+    weight: 5
